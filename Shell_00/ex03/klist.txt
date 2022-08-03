@@ -1,0 +1,5 @@
+Credentials cache: API:062A9F14-1F21-4779-948F-3FABEF2029EB
+        Principal: epark@42SEOUL.KR
+
+  Issued                Expires               Principal
+May 16 17:16:58 2022  May 17 03:16:55 2022  krbtgt/42SEOUL.KR@42SEOUL.KR
